@@ -29,6 +29,8 @@ The goal of this project is to clean and analyze customer purchase data, store t
 
 ```text
 CUSTOMER_BEHAVIOUR_ANALYSIS/
+├── assets/
+│   └── dashboard.jpeg
 ├── customer_shopping_behavior.csv   # Raw customer shopping dataset
 ├── customers.pbix                   # Power BI dashboard file
 ├── notebook.ipynb                   # Python cleaning, PostgreSQL loading, and SQL analysis
@@ -91,7 +93,7 @@ After loading the cleaned data into PostgreSQL, SQL queries were used to answer 
 
 The final dashboard was created in Power BI to present the insights visually.
 
-![Customer Behavior Dashboard](assets/dashboard.png)
+![Customer Behavior Dashboard](assets/dashboard.jpeg)
 
 Dashboard highlights include:
 
