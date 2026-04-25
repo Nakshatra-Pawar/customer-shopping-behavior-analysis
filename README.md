@@ -91,6 +91,8 @@ After loading the cleaned data into PostgreSQL, SQL queries were used to answer 
 
 The final dashboard was created in Power BI to present the insights visually.
 
+![Customer Behavior Dashboard](assets/dashboard.png)
+
 Dashboard highlights include:
 
 - Total number of customers
